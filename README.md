@@ -32,7 +32,7 @@
 
 
 <p align="center">
-  <img src="https://te.legra.ph/file/9a4bb797fceb59c0428b6.jpg">
+  <img src="https://graph.org//file/7f7fb1591136b7dc9bdab.jpg">
 </p>
 
 **𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [˹𝐀ɴᴊᴀʟɪ ꭙ 𝐌ᴜsɪᴄ˼ ♪¹](https://t.me/AnjaliMusicOneBot)**
