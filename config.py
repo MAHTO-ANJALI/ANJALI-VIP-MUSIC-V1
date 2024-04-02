@@ -113,13 +113,13 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/file/529708a1552ff52d2d362.jpg"
+    "START_IMG_URL", "https://te.legra.ph/file/537a8d7641e97c0afb709.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://te.legra.ph/file/68951be447d8a16eabc00.jpg"
 )
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/4b394adb26a12344e28de.jpg"
-STATS_IMG_URL = "https://te.legra.ph/file/9b4b059f9275da973852f.jpg"
+STATS_IMG_URL = "https://te.legra.ph/file/537a8d7641e97c0afb709.jpg"
 TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/72978323f2133f3e5b345.jpg"
 TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/e4a87f829cfa4634f8ca1.jpg"
 STREAM_IMG_URL = "https://te.legra.ph/file/b8c28591a6eb45d8ef9d3.jpg"
